@@ -5,13 +5,7 @@ DevTinder is a **MERN stack** web application designed to help developers **conn
 
 This repository contains the **backend** of DevTinder, built with **Node.js, Express, and MongoDB**, following a **microservices architecture** for scalability.
 
-> ⚠️ **Note:** The backend is **fully functional** and ready for further scaling and optimizations.
 
----
-
-## 📖 My Node.js Learning Repository
-I learned and maintained all my Node.js knowledge in one place:
-[**Namsate Nodejs**](https://github.com/akshadjaiswal/Namaste-Nodejs)
 
 
 ## 🛠️ Tech Stack
@@ -146,22 +140,7 @@ The frontend for DevTinder is available at:
 
 Make sure the backend is running before accessing the frontend.
 
----
-## Learning Resources
 
-Explore my additional repositories to deepen your understanding of related topics in the JavaScript ecosystem:
-
-- [Namaste Javascript](https://github.com/akshadjaiswal/Namaste-Javascript): A repository focused on learning Javascript concepts, from basics to advanced programming.
-- [Namaste React](https://github.com/akshadjaiswal/Namaste-React): A repository dedicated to mastering React.js, covering foundational and advanced aspects of building interactive UIs.
-
----
-
-## 📢 Contribution Guidelines
-Since the project is now fully functional, improvements are still welcome!
-✅ Feel free to open issues for bugs or feature requests.  
-✅ Fork the repository and submit a pull request.  
-
----
 
 ## 📌 Future Enhancements
 🔹 Real-time notifications using WebSockets  
