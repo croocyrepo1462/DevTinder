@@ -1,5 +1,5 @@
 
-# devTinder Frontend s
+# devTinder Frontend 
 
 ## 🚀 Overview
 
@@ -58,15 +58,4 @@ Will Soon deploy on AWS EC2 instance.
 
 This project is open-source and available under the MIT License.
 
-## 🤝 Contribution
 
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
-## 💻 Learning Resources:
-
-Explore my additional repositories to deepen your understanding of related topics in the JavaScript ecosystem:
-
-- [Namaste Javascript](https://github.com/akshadjaiswal/Namaste-Javascript): A repository focused on learning Javascript concepts, from basics to advanced programming.
-- [Namaste React](https://github.com/akshadjaiswal/Namaste-React): A repository dedicated to mastering React.js, covering foundational and advanced aspects of building interactive UIs.
-
----
